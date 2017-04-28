@@ -1,7 +1,7 @@
 /**
  * Created by Jakub Kowalski on 28.04.2017.
  */
-public class Zad2{
+public class Zad3{
     public static void main(String[] args) {
         int number = 1;
         int numberOfDiv=1;
